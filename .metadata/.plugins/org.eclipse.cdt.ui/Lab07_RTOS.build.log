@@ -1,0 +1,10 @@
+
+**** Build of configuration Debug for project Lab07_RTOS ****
+
+/opt/ti/ccsv6/utils/bin/gmake -k all 
+making ../src/sysbios/sysbios.aem4f ...
+gmake[1]: Entering directory `/home/viscon/CCS_workspace_v6_1/Lab07_RTOS/src/sysbios'
+gmake[1]: Nothing to be done for `all'.
+gmake[1]: Leaving directory `/home/viscon/CCS_workspace_v6_1/Lab07_RTOS/src/sysbios'
+
+**** Build Finished ****

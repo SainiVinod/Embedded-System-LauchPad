@@ -1,0 +1,10 @@
+
+**** Build of configuration Debug for project pwmled_EK_TM4C123GXL_TI_TivaTM4C123GH6PM ****
+
+/opt/ti/ccsv6/utils/bin/gmake -k all 
+making ../src/sysbios/sysbios.aem4f ...
+gmake[1]: Entering directory `/home/viscon/CCS_workspace_v6_1/pwmled_EK_TM4C123GXL_TI_TivaTM4C123GH6PM/src/sysbios'
+gmake[1]: Nothing to be done for `all'.
+gmake[1]: Leaving directory `/home/viscon/CCS_workspace_v6_1/pwmled_EK_TM4C123GXL_TI_TivaTM4C123GH6PM/src/sysbios'
+
+**** Build Finished ****
